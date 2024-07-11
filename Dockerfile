@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20201014
 MAINTAINER Jack J
 
 ENV DEBIAN_FRONTEND noninteractive
